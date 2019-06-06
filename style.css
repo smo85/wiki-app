@@ -120,6 +120,7 @@ input, button {
 button {
   width: 75px;
   border-radius: 8px;
+  font-size: 1em;
 }
 
 button#submit {
